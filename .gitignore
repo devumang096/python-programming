@@ -10,3 +10,6 @@ dist/
 
 #libraries and modules
 requests/
+
+single line comment-  #
+multiple line comment- '''......'''
