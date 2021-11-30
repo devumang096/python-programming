@@ -1,0 +1,15 @@
+*python
+#python extension
+*py
+
+*lists/
+*.github*
+
+build/
+dist/
+
+#libraries and modules
+requests/
+
+single line comment-  #
+multiple line comment- '''......'''
